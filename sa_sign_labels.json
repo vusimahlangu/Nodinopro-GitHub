@@ -1,0 +1,2942 @@
+﻿{
+    "signs/image112.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-112"
+                           },
+    "signs/image47.png":  {
+                              "label":  "Direction Sign",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Informational",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-47"
+                          },
+    "signs/image215.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-215"
+                           },
+    "signs/image28.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Construction",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-28"
+                          },
+    "signs/image274.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-274"
+                           },
+    "signs/image59.png":  {
+                              "label":  "Yield",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-59"
+                          },
+    "signs/image380.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-380"
+                           },
+    "signs/image127.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-127"
+                           },
+    "signs/image75.png":  {
+                              "label":  "No Entry",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-75"
+                          },
+    "signs/image73.png":  {
+                              "label":  "Pedestrian Crossing",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-73"
+                          },
+    "signs/image396.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-396"
+                           },
+    "signs/image226.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-226"
+                           },
+    "signs/image42.png":  {
+                              "label":  "Curve Ahead",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-42"
+                          },
+    "signs/image153.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-153"
+                           },
+    "signs/image141.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-141"
+                           },
+    "signs/image98.png":  {
+                              "label":  "Road Works",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Construction",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-98"
+                          },
+    "signs/image326.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-326"
+                           },
+    "signs/image131.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-131"
+                           },
+    "signs/image349.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-349"
+                           },
+    "signs/image335.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-335"
+                           },
+    "signs/image56.png":  {
+                              "label":  "School Ahead",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-56"
+                          },
+    "signs/image77.png":  {
+                              "label":  "Direction Sign",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Informational",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-77"
+                          },
+    "signs/image259.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-259"
+                           },
+    "signs/image224.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-224"
+                           },
+    "signs/image82.png":  {
+                              "label":  "Curve Ahead",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-82"
+                          },
+    "signs/image156.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-156"
+                           },
+    "signs/image133.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-133"
+                           },
+    "signs/image272.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-272"
+                           },
+    "signs/image54.png":  {
+                              "label":  "Route Marker",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Informational",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-54"
+                          },
+    "signs/image407.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-407"
+                           },
+    "signs/image189.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-189"
+                           },
+    "signs/image231.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-231"
+                           },
+    "signs/image262.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-262"
+                           },
+    "signs/image154.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-154"
+                           },
+    "signs/image368.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-368"
+                           },
+    "signs/image253.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-253"
+                           },
+    "signs/image214.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-214"
+                           },
+    "signs/image60.png":  {
+                              "label":  "Stop",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-60"
+                          },
+    "signs/image333.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-333"
+                           },
+    "signs/image280.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-280"
+                           },
+    "signs/image107.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-107"
+                           },
+    "signs/image122.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-122"
+                           },
+    "signs/image405.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-405"
+                           },
+    "signs/image103.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-103"
+                           },
+    "signs/image140.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-140"
+                           },
+    "signs/image22.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-22"
+                          },
+    "signs/image398.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-398"
+                           },
+    "signs/image211.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-211"
+                           },
+    "signs/image331.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-331"
+                           },
+    "signs/image245.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-245"
+                           },
+    "signs/image164.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-164"
+                           },
+    "signs/image119.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-119"
+                           },
+    "signs/image322.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-322"
+                           },
+    "signs/image219.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-219"
+                           },
+    "signs/image101.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-101"
+                           },
+    "signs/image220.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-220"
+                           },
+    "signs/image3.png":  {
+                             "label":  "Speed Limit 120",
+                             "timestamp":  "2025-11-12 15:15:27",
+                             "category":  "Warning",
+                             "SANS":  "Yes",
+                             "sign_id":  "SA-3"
+                         },
+    "signs/image79.png":  {
+                              "label":  "Yield",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-79"
+                          },
+    "signs/image157.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-157"
+                           },
+    "signs/image93.png":  {
+                              "label":  "Pedestrian Crossing",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-93"
+                          },
+    "signs/image213.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-213"
+                           },
+    "signs/image403.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-403"
+                           },
+    "signs/image279.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-279"
+                           },
+    "signs/image166.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-166"
+                           },
+    "signs/image406.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-406"
+                           },
+    "signs/image345.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-345"
+                           },
+    "signs/image203.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-203"
+                           },
+    "signs/image1.png":  {
+                             "label":  "Speed Limit 120",
+                             "timestamp":  "2025-11-12 15:15:26",
+                             "category":  "Regulatory",
+                             "SANS":  "Yes",
+                             "sign_id":  "SA-1"
+                         },
+    "signs/image134.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-134"
+                           },
+    "signs/image21.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-21"
+                          },
+    "signs/image155.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-155"
+                           },
+    "signs/image383.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-383"
+                           },
+    "signs/image228.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-228"
+                           },
+    "signs/image401.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-401"
+                           },
+    "signs/image120.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-120"
+                           },
+    "signs/image34.png":  {
+                              "label":  "Route Marker",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Informational",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-34"
+                          },
+    "signs/image366.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-366"
+                           },
+    "signs/image304.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-304"
+                           },
+    "signs/image125.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-125"
+                           },
+    "signs/image197.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-197"
+                           },
+    "signs/image347.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-347"
+                           },
+    "signs/image58.png":  {
+                              "label":  "Road Works",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Construction",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-58"
+                          },
+    "signs/image136.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-136"
+                           },
+    "signs/image108.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-108"
+                           },
+    "signs/image23.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-23"
+                          },
+    "signs/image399.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-399"
+                           },
+    "signs/image257.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-257"
+                           },
+    "signs/image36.png":  {
+                              "label":  "School Ahead",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-36"
+                          },
+    "signs/image178.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-178"
+                           },
+    "signs/image306.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-306"
+                           },
+    "signs/image218.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-218"
+                           },
+    "signs/image195.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-195"
+                           },
+    "signs/image303.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-303"
+                           },
+    "signs/image186.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-186"
+                           },
+    "signs/image336.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-336"
+                           },
+    "signs/image281.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-281"
+                           },
+    "signs/image19.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-19"
+                          },
+    "signs/image61.png":  {
+                              "label":  "Speed Limit 60",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-61"
+                          },
+    "signs/image350.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-350"
+                           },
+    "signs/image393.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-393"
+                           },
+    "signs/image327.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-327"
+                           },
+    "signs/image202.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-202"
+                           },
+    "signs/image130.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-130"
+                           },
+    "signs/image184.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-184"
+                           },
+    "signs/image6.png":  {
+                             "label":  "Speed Limit 120",
+                             "timestamp":  "2025-11-12 15:15:27",
+                             "category":  "Warning",
+                             "SANS":  "Yes",
+                             "sign_id":  "SA-6"
+                         },
+    "signs/image334.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-334"
+                           },
+    "signs/image283.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-283"
+                           },
+    "signs/image254.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-254"
+                           },
+    "signs/image246.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-246"
+                           },
+    "signs/image142.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-142"
+                           },
+    "signs/image320.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-320"
+                           },
+    "signs/image163.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-163"
+                           },
+    "signs/image52.png":  {
+                              "label":  "Curve Ahead",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-52"
+                          },
+    "signs/image325.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-325"
+                           },
+    "signs/image152.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-152"
+                           },
+    "signs/image183.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-183"
+                           },
+    "signs/image390.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-390"
+                           },
+    "signs/image44.png":  {
+                              "label":  "Route Marker",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Informational",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-44"
+                          },
+    "signs/image4.png":  {
+                             "label":  "Speed Limit 120",
+                             "timestamp":  "2025-11-12 15:15:27",
+                             "category":  "Informational",
+                             "SANS":  "Yes",
+                             "sign_id":  "SA-4"
+                         },
+    "signs/image328.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-328"
+                           },
+    "signs/image109.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-109"
+                           },
+    "signs/image135.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-135"
+                           },
+    "signs/image209.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-209"
+                           },
+    "signs/image256.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-256"
+                           },
+    "signs/image179.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-179"
+                           },
+    "signs/image378.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-378"
+                           },
+    "signs/image359.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-359"
+                           },
+    "signs/image294.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-294"
+                           },
+    "signs/image151.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-151"
+                           },
+    "signs/image171.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-171"
+                           },
+    "signs/image129.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-129"
+                           },
+    "signs/image337.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-337"
+                           },
+    "signs/image284.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-284"
+                           },
+    "signs/image30.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-30"
+                          },
+    "signs/image74.png":  {
+                              "label":  "Route Marker",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Informational",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-74"
+                          },
+    "signs/image99.png":  {
+                              "label":  "Yield",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-99"
+                          },
+    "signs/image227.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-227"
+                           },
+    "signs/image361.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-361"
+                           },
+    "signs/image296.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-296"
+                           },
+    "signs/image62.png":  {
+                              "label":  "Curve Ahead",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-62"
+                          },
+    "signs/image330.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-330"
+                           },
+    "signs/image174.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-174"
+                           },
+    "signs/image348.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-348"
+                           },
+    "signs/image332.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-332"
+                           },
+    "signs/image192.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-192"
+                           },
+    "signs/image286.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-286"
+                           },
+    "signs/image255.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-255"
+                           },
+    "signs/image76.png":  {
+                              "label":  "School Ahead",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-76"
+                          },
+    "signs/image13.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-13"
+                          },
+    "signs/image15.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-15"
+                          },
+    "signs/image160.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-160"
+                           },
+    "signs/image176.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-176"
+                           },
+    "signs/image373.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-373"
+                           },
+    "signs/image352.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-352"
+                           },
+    "signs/image208.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-208"
+                           },
+    "signs/image309.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-309"
+                           },
+    "signs/image118.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-118"
+                           },
+    "signs/image188.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-188"
+                           },
+    "signs/image139.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-139"
+                           },
+    "signs/image338.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-338"
+                           },
+    "signs/image263.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-263"
+                           },
+    "signs/image242.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-242"
+                           },
+    "signs/image251.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-251"
+                           },
+    "signs/image371.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-371"
+                           },
+    "signs/image143.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-143"
+                           },
+    "signs/image329.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-329"
+                           },
+    "signs/image313.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-313"
+                           },
+    "signs/image48.png":  {
+                              "label":  "Road Works",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Construction",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-48"
+                          },
+    "signs/image8.png":  {
+                             "label":  "Speed Limit 120",
+                             "timestamp":  "2025-11-12 15:15:27",
+                             "category":  "Construction",
+                             "SANS":  "Yes",
+                             "sign_id":  "SA-8"
+                         },
+    "signs/image105.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-105"
+                           },
+    "signs/image261.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-261"
+                           },
+    "signs/image200.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-200"
+                           },
+    "signs/image97.png":  {
+                              "label":  "Direction Sign",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Informational",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-97"
+                          },
+    "signs/image175.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-175"
+                           },
+    "signs/image374.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-374"
+                           },
+    "signs/image196.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-196"
+                           },
+    "signs/image288.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-288"
+                           },
+    "signs/image78.png":  {
+                              "label":  "Road Works",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Construction",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-78"
+                          },
+    "signs/image302.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-302"
+                           },
+    "signs/image95.png":  {
+                              "label":  "No Entry",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-95"
+                          },
+    "signs/image92.png":  {
+                              "label":  "Curve Ahead",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-92"
+                          },
+    "signs/image177.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-177"
+                           },
+    "signs/image402.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-402"
+                           },
+    "signs/image376.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-376"
+                           },
+    "signs/image270.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-270"
+                           },
+    "signs/image418.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-418"
+                           },
+    "signs/image344.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-344"
+                           },
+    "signs/image194.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-194"
+                           },
+    "signs/image339.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-339"
+                           },
+    "signs/image201.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-201"
+                           },
+    "signs/image88.png":  {
+                              "label":  "Road Works",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Construction",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-88"
+                          },
+    "signs/image252.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-252"
+                           },
+    "signs/image382.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-382"
+                           },
+    "signs/image229.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-229"
+                           },
+    "signs/image377.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-377"
+                           },
+    "signs/image132.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-132"
+                           },
+    "signs/image180.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-180"
+                           },
+    "signs/image392.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-392"
+                           },
+    "signs/image49.png":  {
+                              "label":  "Yield",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-49"
+                          },
+    "signs/image346.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-346"
+                           },
+    "signs/image204.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-204"
+                           },
+    "signs/image314.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-314"
+                           },
+    "signs/image149.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-149"
+                           },
+    "signs/image375.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-375"
+                           },
+    "signs/image126.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-126"
+                           },
+    "signs/image235.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-235"
+                           },
+    "signs/image301.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-301"
+                           },
+    "signs/image80.png":  {
+                              "label":  "Stop",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-80"
+                          },
+    "signs/image206.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-206"
+                           },
+    "signs/image260.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-260"
+                           },
+    "signs/image64.png":  {
+                              "label":  "Route Marker",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Informational",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-64"
+                          },
+    "signs/image316.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-316"
+                           },
+    "signs/image385.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-385"
+                           },
+    "signs/image410.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-410"
+                           },
+    "signs/image29.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-29"
+                          },
+    "signs/image70.png":  {
+                              "label":  "Stop",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-70"
+                          },
+    "signs/image295.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-295"
+                           },
+    "signs/image35.png":  {
+                              "label":  "No Entry",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-35"
+                          },
+    "signs/image7.png":  {
+                             "label":  "Speed Limit 120",
+                             "timestamp":  "2025-11-12 15:15:27",
+                             "category":  "Informational",
+                             "SANS":  "Yes",
+                             "sign_id":  "SA-7"
+                         },
+    "signs/image409.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-409"
+                           },
+    "signs/image66.png":  {
+                              "label":  "School Ahead",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-66"
+                          },
+    "signs/image387.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-387"
+                           },
+    "signs/image162.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-162"
+                           },
+    "signs/image324.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-324"
+                           },
+    "signs/image341.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-341"
+                           },
+    "signs/image297.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-297"
+                           },
+    "signs/image68.png":  {
+                              "label":  "Road Works",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Construction",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-68"
+                          },
+    "signs/image5.png":  {
+                             "label":  "Speed Limit 120",
+                             "timestamp":  "2025-11-12 15:15:27",
+                             "category":  "Regulatory",
+                             "SANS":  "Yes",
+                             "sign_id":  "SA-5"
+                         },
+    "signs/image310.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-310"
+                           },
+    "signs/image198.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-198"
+                           },
+    "signs/image315.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-315"
+                           },
+    "signs/image230.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-230"
+                           },
+    "signs/image225.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-225"
+                           },
+    "signs/image85.png":  {
+                              "label":  "No Entry",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-85"
+                          },
+    "signs/image147.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-147"
+                           },
+    "signs/image362.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-362"
+                           },
+    "signs/image343.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-343"
+                           },
+    "signs/image278.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-278"
+                           },
+    "signs/image128.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-128"
+                           },
+    "signs/image372.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-372"
+                           },
+    "signs/image65.png":  {
+                              "label":  "No Entry",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-65"
+                          },
+    "signs/image181.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-181"
+                           },
+    "signs/image285.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-285"
+                           },
+    "signs/image84.png":  {
+                              "label":  "Route Marker",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Informational",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-84"
+                          },
+    "signs/image268.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-268"
+                           },
+    "signs/image400.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-400"
+                           },
+    "signs/image249.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-249"
+                           },
+    "signs/image106.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-106"
+                           },
+    "signs/image31.png":  {
+                              "label":  "Speed Limit 60",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-31"
+                          },
+    "signs/image145.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-145"
+                           },
+    "signs/image161.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-161"
+                           },
+    "signs/image11.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-11"
+                          },
+    "signs/image287.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-287"
+                           },
+    "signs/image312.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-312"
+                           },
+    "signs/image232.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-232"
+                           },
+    "signs/image12.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-12"
+                          },
+    "signs/image193.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-193"
+                           },
+    "signs/image104.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-104"
+                           },
+    "signs/image33.png":  {
+                              "label":  "Pedestrian Crossing",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-33"
+                          },
+    "signs/image17.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Informational",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-17"
+                          },
+    "signs/image389.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-389"
+                           },
+    "signs/image222.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-222"
+                           },
+    "signs/image190.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-190"
+                           },
+    "signs/image199.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-199"
+                           },
+    "signs/image353.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-353"
+                           },
+    "signs/image299.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-299"
+                           },
+    "signs/image191.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-191"
+                           },
+    "signs/image419.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-419"
+                           },
+    "signs/image243.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-243"
+                           },
+    "signs/image50.png":  {
+                              "label":  "Stop",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-50"
+                          },
+    "signs/image340.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-340"
+                           },
+    "signs/image9.png":  {
+                             "label":  "Speed Limit 120",
+                             "timestamp":  "2025-11-12 15:15:27",
+                             "category":  "Regulatory",
+                             "SANS":  "Yes",
+                             "sign_id":  "SA-9"
+                         },
+    "signs/image363.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-363"
+                           },
+    "signs/image356.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-356"
+                           },
+    "signs/image39.png":  {
+                              "label":  "Yield",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-39"
+                          },
+    "signs/image150.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-150"
+                           },
+    "signs/image250.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-250"
+                           },
+    "signs/image319.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-319"
+                           },
+    "signs/image266.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-266"
+                           },
+    "signs/image96.png":  {
+                              "label":  "School Ahead",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-96"
+                          },
+    "signs/image100.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-100"
+                           },
+    "signs/image115.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-115"
+                           },
+    "signs/image137.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-137"
+                           },
+    "signs/image81.png":  {
+                              "label":  "Speed Limit 60",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-81"
+                          },
+    "signs/image276.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-276"
+                           },
+    "signs/image69.png":  {
+                              "label":  "Yield",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-69"
+                          },
+    "signs/image289.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-289"
+                           },
+    "signs/image205.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-205"
+                           },
+    "signs/image264.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-264"
+                           },
+    "signs/image94.png":  {
+                              "label":  "Route Marker",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Informational",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-94"
+                          },
+    "signs/image169.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-169"
+                           },
+    "signs/image355.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-355"
+                           },
+    "signs/image298.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-298"
+                           },
+    "signs/image364.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-364"
+                           },
+    "signs/image53.png":  {
+                              "label":  "Pedestrian Crossing",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-53"
+                          },
+    "signs/image207.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-207"
+                           },
+    "signs/image159.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-159"
+                           },
+    "signs/image240.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-240"
+                           },
+    "signs/image241.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-241"
+                           },
+    "signs/image38.png":  {
+                              "label":  "Road Works",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Construction",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-38"
+                          },
+    "signs/image237.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-237"
+                           },
+    "signs/image308.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-308"
+                           },
+    "signs/image357.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-357"
+                           },
+    "signs/image416.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-416"
+                           },
+    "signs/image57.png":  {
+                              "label":  "Direction Sign",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Informational",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-57"
+                          },
+    "signs/image292.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-292"
+                           },
+    "signs/image395.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-395"
+                           },
+    "signs/image415.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-415"
+                           },
+    "signs/image148.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-148"
+                           },
+    "signs/image172.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-172"
+                           },
+    "signs/image113.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-113"
+                           },
+    "signs/image46.png":  {
+                              "label":  "School Ahead",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-46"
+                          },
+    "signs/image10.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-10"
+                          },
+    "signs/image414.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-414"
+                           },
+    "signs/image55.png":  {
+                              "label":  "No Entry",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-55"
+                          },
+    "signs/image121.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-121"
+                           },
+    "signs/image51.png":  {
+                              "label":  "Speed Limit 60",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-51"
+                          },
+    "signs/image397.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-397"
+                           },
+    "signs/image43.png":  {
+                              "label":  "Pedestrian Crossing",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-43"
+                          },
+    "signs/image384.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-384"
+                           },
+    "signs/image273.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-273"
+                           },
+    "signs/image210.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-210"
+                           },
+    "signs/image111.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-111"
+                           },
+    "signs/image369.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-369"
+                           },
+    "signs/image354.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-354"
+                           },
+    "signs/image379.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-379"
+                           },
+    "signs/image317.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-317"
+                           },
+    "signs/image87.png":  {
+                              "label":  "Direction Sign",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Informational",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-87"
+                          },
+    "signs/image123.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-123"
+                           },
+    "signs/image102.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-102"
+                           },
+    "signs/image351.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-351"
+                           },
+    "signs/image258.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-258"
+                           },
+    "signs/image420.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-420"
+                           },
+    "signs/image45.png":  {
+                              "label":  "No Entry",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-45"
+                          },
+    "signs/image41.png":  {
+                              "label":  "Speed Limit 60",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-41"
+                          },
+    "signs/image386.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-386"
+                           },
+    "signs/image271.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-271"
+                           },
+    "signs/image236.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-236"
+                           },
+    "signs/image91.png":  {
+                              "label":  "Speed Limit 60",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-91"
+                          },
+    "signs/image248.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-248"
+                           },
+    "signs/image267.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-267"
+                           },
+    "signs/image247.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-247"
+                           },
+    "signs/image165.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-165"
+                           },
+    "signs/image323.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-323"
+                           },
+    "signs/image173.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-173"
+                           },
+    "signs/image182.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-182"
+                           },
+    "signs/image2.png":  {
+                             "label":  "Speed Limit 120",
+                             "timestamp":  "2025-11-12 15:15:27",
+                             "category":  "Warning",
+                             "SANS":  "Yes",
+                             "sign_id":  "SA-2"
+                         },
+    "signs/image234.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-234"
+                           },
+    "signs/image40.png":  {
+                              "label":  "Stop",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-40"
+                          },
+    "signs/image216.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-216"
+                           },
+    "signs/image146.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-146"
+                           },
+    "signs/image167.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-167"
+                           },
+    "signs/image342.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-342"
+                           },
+    "signs/image321.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-321"
+                           },
+    "signs/image358.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-358"
+                           },
+    "signs/image233.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-233"
+                           },
+    "signs/image24.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Informational",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-24"
+                          },
+    "signs/image404.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-404"
+                           },
+    "signs/image67.png":  {
+                              "label":  "Direction Sign",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Informational",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-67"
+                          },
+    "signs/image89.png":  {
+                              "label":  "Yield",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-89"
+                          },
+    "signs/image86.png":  {
+                              "label":  "School Ahead",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-86"
+                          },
+    "signs/image269.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-269"
+                           },
+    "signs/image413.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-413"
+                           },
+    "signs/image408.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-408"
+                           },
+    "signs/image16.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-16"
+                          },
+    "signs/image144.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-144"
+                           },
+    "signs/image239.png":  {
+                               "label":  "Yield",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-239"
+                           },
+    "signs/image367.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-367"
+                           },
+    "signs/image116.png":  {
+                               "label":  "School Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-116"
+                           },
+    "signs/image26.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-26"
+                          },
+    "signs/image381.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-381"
+                           },
+    "signs/image277.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-277"
+                           },
+    "signs/image170.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-170"
+                           },
+    "signs/image391.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-391"
+                           },
+    "signs/image212.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-212"
+                           },
+    "signs/image32.png":  {
+                              "label":  "Curve Ahead",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-32"
+                          },
+    "signs/image318.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-318"
+                           },
+    "signs/image388.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-388"
+                           },
+    "signs/image223.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-223"
+                           },
+    "signs/image37.png":  {
+                              "label":  "Direction Sign",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Informational",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-37"
+                          },
+    "signs/image365.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-365"
+                           },
+    "signs/image217.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-217"
+                           },
+    "signs/image290.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-290"
+                           },
+    "signs/image114.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-114"
+                           },
+    "signs/image360.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-360"
+                           },
+    "signs/image187.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-187"
+                           },
+    "signs/image90.png":  {
+                              "label":  "Stop",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-90"
+                          },
+    "signs/image275.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-275"
+                           },
+    "signs/image63.png":  {
+                              "label":  "Pedestrian Crossing",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-63"
+                          },
+    "signs/image311.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-311"
+                           },
+    "signs/image411.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-411"
+                           },
+    "signs/image14.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Informational",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-14"
+                          },
+    "signs/image221.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-221"
+                           },
+    "signs/image305.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-305"
+                           },
+    "signs/image244.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-244"
+                           },
+    "signs/image20.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-20"
+                          },
+    "signs/image18.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Construction",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-18"
+                          },
+    "signs/image25.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-25"
+                          },
+    "signs/image185.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-185"
+                           },
+    "signs/image282.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-282"
+                           },
+    "signs/image412.png":  {
+                               "label":  "Curve Ahead",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-412"
+                           },
+    "signs/image71.png":  {
+                              "label":  "Speed Limit 60",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Regulatory",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-71"
+                          },
+    "signs/image291.png":  {
+                               "label":  "Speed Limit 60",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-291"
+                           },
+    "signs/image158.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-158"
+                           },
+    "signs/image238.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-238"
+                           },
+    "signs/image307.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-307"
+                           },
+    "signs/image72.png":  {
+                              "label":  "Curve Ahead",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-72"
+                          },
+    "signs/image124.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-124"
+                           },
+    "signs/image27.png":  {
+                              "label":  "Speed Limit 120",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Informational",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-27"
+                          },
+    "signs/image117.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-117"
+                           },
+    "signs/image138.png":  {
+                               "label":  "Road Works",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Construction",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-138"
+                           },
+    "signs/image83.png":  {
+                              "label":  "Pedestrian Crossing",
+                              "timestamp":  "2025-11-12 15:15:27",
+                              "category":  "Warning",
+                              "SANS":  "Yes",
+                              "sign_id":  "SA-83"
+                          },
+    "signs/image417.png":  {
+                               "label":  "Direction Sign",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-417"
+                           },
+    "signs/image370.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-370"
+                           },
+    "signs/image300.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-300"
+                           },
+    "signs/image293.png":  {
+                               "label":  "Pedestrian Crossing",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Warning",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-293"
+                           },
+    "signs/image265.png":  {
+                               "label":  "No Entry",
+                               "timestamp":  "2025-11-12 15:15:28",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-265"
+                           },
+    "signs/image394.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:29",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-394"
+                           },
+    "signs/image110.png":  {
+                               "label":  "Stop",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Regulatory",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-110"
+                           },
+    "signs/image168.png":  {
+                               "label":  "Route Marker",
+                               "timestamp":  "2025-11-12 15:15:27",
+                               "category":  "Informational",
+                               "SANS":  "Yes",
+                               "sign_id":  "SA-168"
+                           }
+}
